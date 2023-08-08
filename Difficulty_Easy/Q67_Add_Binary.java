@@ -12,7 +12,7 @@ public class Q67_Add_Binary {
 		int sum1 = (Binary_to_Decimal(a) + Binary_to_Decimal(b));
 		System.out.println(Decimal_to_Binary(sum1));
 	}
-	public static int Binary_to_Decimal(int a) {
+     	public static int Binary_to_Decimal(int a) {
 		int sum=0;
 		int mul=1;
 		while(a>0) {

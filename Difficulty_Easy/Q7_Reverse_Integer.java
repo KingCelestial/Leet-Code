@@ -7,7 +7,6 @@ public class Q7_Reverse_Integer {
 		int n = 1534236469;
 		if(n<Integer.MIN_VALUE || n>Integer.MAX_VALUE) {
 			System.out.println(0);
-			break;
 		}
 		int sum=0;
 		int mul = 10;

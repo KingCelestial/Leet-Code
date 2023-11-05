@@ -1,6 +1,6 @@
 package Contests;
 
-public class Minimum_Sum_of_Mountain_Triplets_I {
+public class UnSol_Minimum_Sum_of_Mountain_Triplets_I {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

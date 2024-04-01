@@ -4,10 +4,10 @@ public class Q1823_Find_the_Winner_of_the_Circular_Game {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int n = 6;
+		int p = 6;
 		int k = 5;
 		List<Integer> ll = new ArrayList<>();
-		for (int i = 1; i <= n; i++) {
+		for (int i = 1; i <= p; i++) {
 			ll.add(i);
 		}
 		System.out.println(check(k,k,ll,-1));
